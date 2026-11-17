@@ -2,7 +2,7 @@
 
 ## Overview
 This repository contains my pitch deck and product teardown of Jar, the digital gold savings app.  
-The deck was created as part of the Nailit Product Hackathon, where it secured 2nd Prize at the All-India level.
+
 
 The teardown includes:
 - Product analysis and evaluation of core features  
@@ -13,7 +13,6 @@ The teardown includes:
 ---
 
 ## Achievement
-- Secured 2nd Prize (All-India) in the Nailit Product Hackathon  
 - Recognized for clarity of insights, structured teardown, and actionable solutions  
 
 ---
